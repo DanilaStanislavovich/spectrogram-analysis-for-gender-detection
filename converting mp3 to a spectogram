@@ -11,9 +11,9 @@ def get_file_list_from_dir(datadir, file_extension):
     return data_files
 
 
-voice_dir = '/content/drive/MyDrive/Man or woman/Data'
-spectrogram_dir = '/content/drive/MyDrive/Man or woman/Spectr_dif'
-info_csv = '/content/drive/MyDrive/Man or woman/Information.csv'
+voice_dir = 'Data'
+spectrogram_dir = 'Spectr_dif'
+info_csv = 'Information.csv'
 
 male_count = 0
 female_count = 0
